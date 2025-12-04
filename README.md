@@ -1,0 +1,2 @@
+# AutoDim
+一个能够自动调节手机暗度来实现干预用户手机overuse的App
